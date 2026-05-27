@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Zombies that kill players without a weapon, will instead infect the player.. causing them to become a Zombie, they can either die or cure themseleves to remove the infection however they can also spread the infection to other players."
+  }
+}

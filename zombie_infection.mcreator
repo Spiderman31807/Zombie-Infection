@@ -1,0 +1,302 @@
+{
+  "mod_elements": [
+    {
+      "name": "ZombieType",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zombie_type",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/ZombieType.java"
+        ]
+      }
+    },
+    {
+      "name": "Infectable",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "infectable",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/Infectable.java"
+        ]
+      }
+    },
+    {
+      "name": "Events",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "events",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/Events.java"
+        ]
+      }
+    },
+    {
+      "name": "Infector",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "infector",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/Infector.java"
+        ]
+      }
+    },
+    {
+      "name": "Player",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "player",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/mixins/PlayerMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "Zombie",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zombie",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/mixins/ZombieMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "InfectCommand",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "infect_command",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/InfectCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "HumanoidRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "humanoid_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/HumanoidRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "AbstractZombieModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "abstract_zombie_model",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/AbstractZombieModel.java"
+        ]
+      }
+    },
+    {
+      "name": "DrownedModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "drowned_model",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/DrownedModel.java"
+        ]
+      }
+    },
+    {
+      "name": "DrownedRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "drowned_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/DrownedRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "MobRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mob_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/MobRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "ZombieRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zombie_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/ZombieRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "HuskRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "husk_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/HuskRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "DrownedOuterLayer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "drowned_outer_layer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/DrownedOuterLayer.java"
+        ]
+      }
+    },
+    {
+      "name": "AbstractZombieRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "abstract_zombie_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/AbstractZombieRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "ZombieModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zombie_model",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/ZombieModel.java"
+        ]
+      }
+    },
+    {
+      "name": "HandModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hand_model",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/HandModel.java"
+        ]
+      }
+    },
+    {
+      "name": "HandRenderer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hand_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/HandRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "HandData",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hand_data",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/HandData.java"
+        ]
+      }
+    },
+    {
+      "name": "ZombieInfo",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zombie_info",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/ZombieInfo.java"
+        ]
+      }
+    },
+    {
+      "name": "ItemStack",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "item_stack",
+      "metadata": {
+        "files": [
+          "src/main/java/zombieinfection/mixins/ItemStackMixin.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "command.infect.fail": "%s has no Infection paramaters",
+      "command.infect.success.other": "Changed %s\u0027s Infection to %s",
+      "command.infect.success.self": "Changed own Infection to %s"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "zombie_infection",
+    "modName": "Zombie Infection",
+    "version": "1.0.3",
+    "description": "Zombies that kill players without a weapon, will instead infect the player.. causing them to become a Zombie, they can either die or cure themseleves to remove the infection however they can also spread the infection to other players.",
+    "author": "Spiderman31807",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/zombiemode",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Spiderman31807",
+    "modElementsPackage": "zombieinfection"
+  },
+  "mcreatorVersion": 202500110519
+}

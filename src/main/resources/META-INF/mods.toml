@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
+
+[[mods]]
+modId="zombie_infection"
+version="1.0.3"
+displayName="Zombie Infection"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/zombiemode"
+logoFile="logo.png"
+credits="Spiderman31807"
+authors="Spiderman31807"
+description="Zombies that kill players without a weapon, will instead infect the player.. causing them to become a Zombie, they can either die or cure themseleves to remove the infection however they can also spread the infection to other players."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.zombie_infection]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

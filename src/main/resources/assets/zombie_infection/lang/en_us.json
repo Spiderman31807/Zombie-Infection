@@ -1,0 +1,5 @@
+{
+  "command.infect.fail": "%s has no Infection paramaters",
+  "command.infect.success.other": "Changed %s\u0027s Infection to %s",
+  "command.infect.success.self": "Changed own Infection to %s"
+}

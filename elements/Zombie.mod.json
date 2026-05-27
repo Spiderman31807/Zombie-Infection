@@ -1,0 +1,9 @@
+{
+  "_fv": 77,
+  "_type": "mixin",
+  "definition": {
+    "mixins": "ZombieMixin",
+    "isClient": false,
+    "mixinClass": "Zombie"
+  }
+}
